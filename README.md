@@ -10,7 +10,13 @@
 
 ## Sobre mim
 
-Sou **Analista de Suporte e Infraestrutura na Helpitech**. Administro ambientes Azure e Microsoft 365 e automatizo rotinas de TI com PowerShell. Minha experiência em Service Desk N1/N2 na Atento me deu uma base em troubleshooting de redes e sistemas Windows, gestão de acessos e atendimento via ServiceNow.
+Atuo com **infraestrutura de TI em ambientes Microsoft**, com foco em nuvem. Administro recursos no **Azure** e serviços do **Microsoft 365** e gerencio identidades e acessos no **Microsoft Entra ID** e no **Active Directory (AD DS)**.
+
+Uso **PowerShell** para automatizar tarefas como provisionamento de contas, geração de relatórios de licenciamento e integrações com o Microsoft 365 e o Teams via **APIs REST e webhooks**. Versiono scripts e documentação com **Git** e uso o **Azure DevOps** para acompanhar o backlog e os fluxos de trabalho com as equipes de desenvolvimento.
+
+Minha formação técnica em **C#, .NET e APIs REST** me ajuda a entender as aplicações que a infraestrutura sustenta e a trabalhar com as equipes de desenvolvimento. Hoje aplico essa base à automação e aprofundo meus conhecimentos em **infraestrutura como código e práticas de DevOps**. Uso inglês no atendimento a usuários e na leitura de documentação técnica.
+
+**Em estudo:** AZ-104 (Azure Administrator), Linux e Terraform.
 
 ## O que faço na prática
 
