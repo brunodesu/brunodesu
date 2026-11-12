@@ -1,27 +1,24 @@
-<p align="center">
-  <img src="./banner.svg" alt="Bruno Bezerra — Infraestrutura Microsoft, Cloud e Automação" width="100%">
-</p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./banner-static.png">
+  <img src="./banner-powershell.gif" alt="Bruno Bezerra · Infraestrutura e Cloud Microsoft. Terminal PowerShell com exemplos de consultas de usuários, licenças e equipes." width="1080">
+</picture>
 
 <p align="center">
-  <strong>São Paulo, Brasil</strong> &nbsp;·&nbsp; Inglês C1 &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/bruno-bezerra-504838241/">LinkedIn ↗</a>
+  São Paulo, SP &nbsp;·&nbsp; Inglês C1 &nbsp;·&nbsp; Espanhol B2 &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/bruno-bezerra-504838241/"><strong>LinkedIn ↗</strong></a>
 </p>
 
 ## Sobre mim
 
-Atuo com infraestrutura de TI em ambientes Microsoft. Minha experiência começou no Service Desk e evoluiu para a administração de Azure e Microsoft 365, gestão de identidades e automação de rotinas operacionais.
+Sou **Analista de Suporte e Infraestrutura na Helpitech**. Administro ambientes Azure e Microsoft 365 e automatizo rotinas de TI com PowerShell. Minha experiência em Service Desk N1/N2 na Atento me deu uma base em troubleshooting de redes e sistemas Windows, gestão de acessos e atendimento via ServiceNow.
 
-Uso PowerShell para automatizar o provisionamento de contas, gerar relatórios de licenciamento e integrar rotinas do Microsoft 365 e do Teams com APIs REST e webhooks.
+## O que faço na prática
 
-## Na prática
+- **Cloud Microsoft** · Administro recursos no Azure e serviços como Exchange Online, Teams e SharePoint no Microsoft 365.
+- **Identidades e acessos** · Gerencio o ciclo de vida de contas, grupos e permissões no Microsoft Entra ID e no Active Directory (AD DS).
+- **Automação** · Escrevo scripts PowerShell e integro rotinas do Microsoft 365 e do Teams via APIs REST e webhooks. Versiono scripts e documentação com Git e acompanho o backlog no Azure Boards.
+- **Operações de TI** · Atuo na sustentação de ambientes corporativos e no diagnóstico de problemas com TCP/IP, DNS, DHCP e VPN. Trabalho com monitoramento no Zabbix, gestão de chamados no GLPI e inventário de ativos (ITAM).
 
-| Área | O que faço |
-| :--- | :--- |
-| **Cloud Microsoft** | Administração de Azure, Microsoft 365, Exchange Online, Teams e SharePoint |
-| **Identidades e acessos** | Provisionamento de contas e gestão de grupos e permissões no Microsoft Entra ID e no Active Directory (AD DS) |
-| **Automação** | Scripts PowerShell, integrações REST e webhooks, com versionamento em Git |
-| **Operações de TI** | Monitoramento com Zabbix, atendimento via GLPI e gestão de backlog no Azure DevOps |
+## Formação
 
-## Em estudo
-
-Estou me preparando para o **AZ-104** e aprofundando meus conhecimentos em **Linux** e **Terraform**. Minha formação técnica em **C# e .NET** me ajuda a conectar o trabalho de infraestrutura às aplicações que ela sustenta.
+Curso **Análise e Desenvolvimento de Sistemas na UNICID** e concluí o técnico em **Desenvolvimento de Software Interativo na Etec Ferraz de Vasconcelos**. Minha base em C#, .NET e SQL me ajuda a entender as aplicações que a infraestrutura sustenta.
