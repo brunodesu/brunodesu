@@ -27,4 +27,4 @@ Minha formação técnica em **C#, .NET e APIs REST** me ajuda a entender as apl
 
 ## Formação
 
-Curso **Análise e Desenvolvimento de Sistemas na UNICID** e concluí o técnico em **Desenvolvimento de Software Interativo na Etec Ferraz de Vasconcelos**. Minha base em C#, .NET e SQL me ajuda a entender as aplicações que a infraestrutura sustenta.
+Curso **Análise e Desenvolvimento de Sistemas** e concluí o técnico em **Desenvolvimento de Software Interativo na Etec Ferraz de Vasconcelos**. Minha base em C#, .NET e SQL me ajuda a entender as aplicações que a infraestrutura sustenta.
